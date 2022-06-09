@@ -9,6 +9,11 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+      /**
+     * 
+     * 마무리 하는 xml 파일 입니다.
+     */
+    
     <LinearLayout
         android:orientation="horizontal"
         android:layout_height="0dip"
