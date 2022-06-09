@@ -9,10 +9,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android">
-/**
-    투표 앱 메인 입니다.
-   * 
-  /  
+  
+    /**
+     * 
+     * 투표 앱의 메인 홈 입니다.
+     */
     
     <LinearLayout
         android:orientation="horizontal"
