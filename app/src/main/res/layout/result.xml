@@ -10,6 +10,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
+      /**
+     * 
+     * 음식 선호도 투표를 한 뒤, 결과를 보여지는 곳 입니다.
+     */
+    
     <TableRow>
         <TextView
             android:layout_gravity="center_vertical"
