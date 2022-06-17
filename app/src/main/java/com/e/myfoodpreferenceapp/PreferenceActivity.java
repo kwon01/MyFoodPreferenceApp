@@ -12,6 +12,11 @@ import androidx.appcompat.app.AppCompatActivity;
 public class PreferenceActivity extends AppCompatActivity {
     Button btnReturn, btnNext;
 
+      /**
+     * 
+     * java 코드는 음식 선호도 투표 입니다.
+     */
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
