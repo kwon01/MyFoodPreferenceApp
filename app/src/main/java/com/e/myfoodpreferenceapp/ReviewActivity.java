@@ -22,6 +22,11 @@ public class ReviewActivity extends AppCompatActivity {
     Button btnReturn, btnNext, btnInit, btnInsert, btnSelect;
     SQLiteDatabase sqlDB;
 
+      /**
+     * 
+     * 음식 선호도 평점에 대한 java 코드 입니다.
+     */
+    
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
