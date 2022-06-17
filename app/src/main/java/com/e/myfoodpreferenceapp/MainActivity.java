@@ -9,6 +9,11 @@ import android.widget.*;
 public class MainActivity extends AppCompatActivity {
     Button btnStart;
 
+      /**
+     * 
+     * jvad의 코드는 투표 앱의 메인 홈 입니다.
+     */
+    
     @Override
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
