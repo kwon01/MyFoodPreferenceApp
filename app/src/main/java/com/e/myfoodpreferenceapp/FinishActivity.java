@@ -9,6 +9,11 @@ import androidx.appcompat.app.AppCompatActivity;
 public class FinishActivity extends AppCompatActivity {
     Button btnFinish;
 
+     /**
+     * 
+     * 음식 선호도 투표의 마무리 java 코드 입니다.
+     */
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
